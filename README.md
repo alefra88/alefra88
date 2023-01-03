@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  </div>
  <h2 align="center">I never give up!!!</h2>
  <div align="center"><img src="https://github.com/alefra88/gifsyanimacionesparamisweas/blob/master/struggling-suffering.gif" alt="suffering"></div>
- <div align="center"><h2>I always come back stronger. Will you give me a chance to demonstrate my skills?</h2><img src="https://github.com/alefra88/gifsyanimacionesparamisweas/blob/master/programmer.gif" alt="programing"></div>
+ <div align="center"><img src="https://github.com/alefra88/gifsyanimacionesparamisweas/blob/master/programmer.gif" alt="programing"></div>
 <div align="left">
   <h3>🔨 Lenguages and Tools:</h3>
   <div>
