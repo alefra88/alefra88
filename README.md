@@ -39,5 +39,6 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40px" height="40px">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40px" height="40px">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Photoshop" alt="Photoshop" width="40px" height="40px">&nbsp;
+    <img src="[https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg](https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg)" title="Photoshop" alt="Photoshop" width="40px" height="40px">&nbsp;
   </div>
 </div>
