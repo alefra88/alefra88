@@ -19,7 +19,7 @@ Here are some ideas to get you started:
    <img src="https://github.com/alefra88/gifsyanimacionesparamisweas/blob/master/8Yyg.gif" alt="I love computers" />
 </div>
  <div align="center">
-  <h2>I do my best to be a web developer, nothing can stop me...even not having a computer...or a keyboard.</h2>
+  <h2>Everyday code</h2>
     <img src="https://github.com/alefra88/gifsyanimacionesparamisweas/blob/master/Golden-Boy.gif" alt="">
  </div>
  <h2 align="center">I never give up!!!</h2>
