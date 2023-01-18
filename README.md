@@ -42,4 +42,7 @@ Here are some ideas to get you started:
     
   </div>
 </div>
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alefra88&theme=react&line_height=40&hide=css"/>
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alefra88&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+
