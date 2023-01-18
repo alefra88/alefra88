@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi... 😂😂
 <div id="header" align="center">
-  <h1 align="center">Hi... Im an android Nexus 7 sn N7FAA52319......just kidding. 😂😂</h1>
   ⚡ Fun fact: <br>
    <img src="https://github.com/alefra88/gifsyanimacionesparamisweas/blob/master/8Yyg.gif" alt="I love computers" />
 </div>
@@ -22,8 +22,6 @@ Here are some ideas to get you started:
   <h2>Everyday code</h2>
     <img src="https://github.com/alefra88/gifsyanimacionesparamisweas/blob/master/Golden-Boy.gif" alt="">
  </div>
- <h2 align="center">I never give up!!!</h2>
- <div align="center"><img src="https://github.com/alefra88/gifsyanimacionesparamisweas/blob/master/struggling-suffering.gif" alt="suffering"></div>
  <div align="center"><img src="https://github.com/alefra88/gifsyanimacionesparamisweas/blob/master/programmer.gif" alt="programing"></div>
 <div align="left">
   <h3>🔨 Lenguages and Tools:</h3>
@@ -44,3 +42,6 @@ Here are some ideas to get you started:
     
   </div>
 </div>
+
+![Alefra88's GitHub stats](https://github-readme-stats.vercel.app/api?username=alefra88&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alefra88&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
