@@ -39,6 +39,7 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alefra88&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alefra88&langs_count=6&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
