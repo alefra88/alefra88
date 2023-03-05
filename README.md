@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 </div>
  <div align="center">
   <h2>Everyday code</h2>
-    <img src="https://github.com/alefra88/gifsyanimacionesparamisweas/blob/master/Golden-Boy.gif" alt="">
  </div>
  <div align="center"><img src="https://github.com/alefra88/gifsyanimacionesparamisweas/blob/master/programmer.gif" alt="programing"></div>
 <div align="left">
