@@ -31,7 +31,6 @@ Here are some ideas to get you started:
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40px" height="40px">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40px" height="40px">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40px" height="40px">&nbsp;
-    
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="bash" alt="bash" width="40px" height="40px">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="40px" height="40px">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40px" height="40px">&nbsp;
