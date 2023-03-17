@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 # Hi... 
 <div id="header" align="center">
   ⚡ Fun fact: <br>
-   <img src="https://github.com/alefra88/gifsyanimacionesparamisweas/blob/master/8Yyg.gif" alt="I love computers" />
-</div>
+ 
  <div align="center">
-  <h2>Everyday code</h2>
+  <h2>I Everyday code</h2>
  </div>
  <div align="center"><img src="https://github.com/alefra88/gifsyanimacionesparamisweas/blob/master/programmer.gif" alt="programing"></div>
 <div align="left">
