@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   ⚡ Fun fact:<br>
  
- <div align="center">
+ <div align="center" >
   <h2>I Everyday code</h2>
  </div>
  <div align="center"><img src="https://github.com/alefra88/gifsyanimacionesparamisweas/blob/master/programmer.gif" alt="programing"></div>
