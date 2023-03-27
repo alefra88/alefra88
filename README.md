@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  </div>
  <div align="center"><img src="https://github.com/alefra88/gifsyanimacionesparamisweas/blob/master/programmer.gif" alt="programing"></div>
 <div align="left">
-  <h3>🔨 Lenguages and Tools:</h3>
+  <h3>🔨 Lenguages and Tools: </h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40px" height="40px">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40px" height="40px">&nbsp;
