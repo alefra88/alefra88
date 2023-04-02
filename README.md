@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 # Hi... 
 <div id="header" align="center">
-  ⚡ Fun fact:<br>
+ 
  
  <div align="center" >
   <h2>I Everyday code</h2>
