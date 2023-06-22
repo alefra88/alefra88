@@ -35,6 +35,10 @@ Here are some ideas to get you started:
     <img src="https://github.com/Automattic/mongoose/blob/master/docs/images/mongoose.svg" title="mongoose" alt="mongoose" width="60px" height="60px">&nbsp;
   <h3> 🌱 currently learning:</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40px" height="40px">&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="blender" width="40px" height="40px">&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="threejs" alt="threejs" width="40px" height="40px">&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwind" alt="tailwind" width="40px" height="40px">&nbsp;
+   
   </div>
 </div>
 
