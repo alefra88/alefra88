@@ -47,18 +47,18 @@ Here are some ideas to get you started:
    <h3>🔨 Tools: </h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="40px" height="40px">&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40px" height="40px">&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40px" height="40px">&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40px" height="40px">&nbsp;
      
     
   <h3>  :writing_hand: currently learning:</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40px" height="40px">&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40px" height="40px">&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwind" alt="tailwind" width="40px" height="40px">&nbsp;
   
    <h3>🌱 Next Learning: </h3>
    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="blender" width="40px" height="40px">&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="threejs" alt="threejs" width="40px" height="40px">&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40px" height="40px">&nbsp;
+   
   </div>
 </div>
 
