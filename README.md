@@ -34,11 +34,10 @@ Here are some ideas to get you started:
      
 
   <h3> ⚡ Backend:</h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="vite" alt="vite" width="40px" height="40px">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="60px" height="60px">&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="60px" height="60px">&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="Express" width="60px" height="60px">&nbsp;
-    <img src="https://github.com/Automattic/mongoose/blob/master/docs/images/mongoose.svg" title="mongoose" alt="mongoose" width="60px" height="60px">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="60px" height="60px">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40px" height="40px">&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="sqlDeveloper" alt="sqlDeveloper" width="40px" height="40px">&nbsp;
 
@@ -49,10 +48,8 @@ Here are some ideas to get you started:
 
    <h3>🔨 Tools: </h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="40px" height="40px">&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40px" height="40px">&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40px" height="40px">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="vscode" alt="vsconde" width="40px" height="40px">&nbsp; 
-     <img src="https://www.svgrepo.com/show/374111/swagger.svg" title="swagger" alt="swagger" width="40px" height="40px">&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="postman" width="40px" height="40px">&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="dbeaber" alt="dbeaber" width="40px" height="40px">&nbsp;
      
