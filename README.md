@@ -60,8 +60,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/angular/angular-original.svg" title="React" alt="React" width="40px" height="40px">&nbsp;
   
    <h3>🌱 Next Learning: </h3>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="blender" width="40px" height="40px">&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="threejs" alt="threejs" width="40px" height="40px">&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="threejs" width="40px" height="40px">&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40px" height="40px">&nbsp;
    
   </div>
