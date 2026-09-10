@@ -40,6 +40,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40px" height="40px">&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="Express" width="60px" height="60px">&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="sqlDeveloper" alt="sqlDeveloper" width="40px" height="40px">&nbsp;
+     <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/oracle/oracle-original.svg" title="sqlDeveloper" alt="sqlDeveloper" width="40px" height="40px">&nbsp;
 
     
      
@@ -52,8 +53,11 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="vscode" alt="vsconde" width="40px" height="40px">&nbsp; 
      <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="postman" width="40px" height="40px">&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="dbeaber" alt="dbeaber" width="40px" height="40px">&nbsp;
+     <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/bash/bash-original.svg" title="dbeaber" alt="dbeaber" width="40px" height="40px">&nbsp;
+     
  <h3>🔨 DevOps: </h3>
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40px" height="40px">&nbsp;
+   <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/azuredevops/azuredevops-original.svg" title="docker" alt="docker" width="40px" height="40px">&nbsp;
      
 
 
