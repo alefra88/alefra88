@@ -69,5 +69,6 @@ Here are some ideas to get you started:
 </div>
 
   #
-  [![Top Langs](https://github-stats-extended.vercel.app/api?username=alefra88&theme=radical&langs_count=6&theme=angular&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=alefra88&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=alefra88&show_icons=true&include_all_commits=true&theme=transparent)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=alefra88&layout=compact&langs_count=10&hide_values=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=alefra88&layout=compact&langs_count=10&hide_values=true&theme=transparent)
