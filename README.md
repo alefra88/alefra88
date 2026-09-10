@@ -69,6 +69,5 @@ Here are some ideas to get you started:
 </div>
 
   #
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alefra88&langs_count=6&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+  [![Top Langs](https://github-stats-extended.vercel.app/api?username=alefra88&theme=radical&langs_count=6&theme=angular&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
