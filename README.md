@@ -27,6 +27,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40px" height="40px">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40px" height="40px">&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="vite" alt="vite" width="40px" height="40px">&nbsp;
+     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/angular/angular-original.svg" title="React" alt="React" width="40px" height="40px">&nbsp;
     
     
      
@@ -59,7 +60,8 @@ Here are some ideas to get you started:
     
     
   <h3>  :writing_hand: currently learning:</h3>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/angular/angular-original.svg" title="React" alt="React" width="40px" height="40px">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="React" alt="React" width="40px" height="40px">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/android/android-original.svg" title="React" alt="React" width="40px" height="40px">&nbsp;
   
   
    <h3>🌱 Next Learning: </h3>
